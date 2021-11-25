@@ -8,8 +8,9 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='django_save_deep',
-    version='0.0.1',
+    version='0.0.2',
     author='Thomas Deniffel',
+    url='https://github.com/tom-010/django-save-deep',
     author_email='tdeniffel@gmail.com',
     packages=['save_deep'], # find_packages(),
     license='Apache2',
